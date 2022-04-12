@@ -1,0 +1,138 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Event 1",
+      "desc": "Description 1",
+      "category": "sports",
+      "date": "February 23"
+    },
+    {
+      "id": 2,
+      "title": "Event 2",
+      "desc": "Description 2",
+      "category": "tech",
+      "date": "February 12"
+    },
+    {
+      "id": 3,
+      "title": "Event 3",
+      "desc": "Description 3",
+      "category": "sports",
+      "date": "February 16"
+    },
+    {
+      "id": 4,
+      "title": "Event 4",
+      "desc": "Description 4",
+      "category": "health",
+      "date": "February 22"
+    },
+    {
+      "id": 5,
+      "title": "Event 5",
+      "desc": "Description 5",
+      "category": "tech",
+      "date": "February 16"
+    },
+    {
+      "id": 6,
+      "title": "Event 6",
+      "desc": "Description 6",
+      "category": "sports",
+      "date": "February 17"
+    },
+    {
+      "id": 7,
+      "title": "Event 7",
+      "desc": "Description 7",
+      "category": "health",
+      "date": "February 16"
+    },
+    {
+      "id": 8,
+      "title": "Event 8",
+      "desc": "Description 8",
+      "category": "science",
+      "date": "February 16"
+    },
+    {
+      "id": 9,
+      "title": "Event 9",
+      "desc": "Description 9",
+      "category": "science",
+      "date": "February 16"
+    },
+    {
+      "id": 10,
+      "title": "Event 10",
+      "desc": "Description 10",
+      "category": "science",
+      "date": "February 16"
+    }
+  ],
+  "dashboard": {
+    "posts": 15,
+    "likes": 100,
+    "followers": 20,
+    "following": 50
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "News Artice 1",
+      "desc": "Desc 1",
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "title": "News Artice 2",
+      "desc": "Desc 2",
+      "category": "tech"
+    },
+    {
+      "id": 3,
+      "title": "News Artice 3",
+      "desc": "Desc 3",
+      "category": "sports"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 1000,
+      "description": "Description 1"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 2000,
+      "description": "Description 2"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 3000,
+      "description": "Description 3"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 4000,
+      "description": "Description 4"
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "price": 5000,
+      "description": "Description 5"
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "price": 6000,
+      "description": "Description 6"
+    }
+  ]
+}
